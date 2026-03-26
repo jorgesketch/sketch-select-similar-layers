@@ -259,7 +259,7 @@
 				]
 			},
 			{
-				"title": "In Artboard",
+				"title": "In Frame",
 				"items": [
 					"selectSameFill",
 					"selectSameBorder",
@@ -293,7 +293,7 @@
 		]
 	},
 	"identifier": "me.wessley.selectSimilarLayers",
-	"version": "1.6.1",
+	"version": "1.7.0",
 	"description": "A plugin that selects layers with similar attributes to those of the layer currently selected.",
 	"authorEmail": "rochewes@gmail.com",
 	"name": "Select Similar Layers",
